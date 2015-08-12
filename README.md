@@ -1,3 +1,5 @@
 <html>
-<body>test2</body>
+<body>
+<iframe src="http://www.google.nl"></iframe>
+</body>
 </html>
